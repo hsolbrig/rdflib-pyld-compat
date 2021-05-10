@@ -39,7 +39,7 @@ class Coverage(Command):
 
 
 setup(
-    name='rdflib-pyld-compat',
+    name='rdflib-pyldmod-compat',
     version=version,
     packages=['rdflib_pyld_compat'],
     classifiers=["Development Status :: 4 - Beta",
