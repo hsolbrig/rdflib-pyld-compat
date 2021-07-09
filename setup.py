@@ -59,7 +59,7 @@ setup(
     url='http://github.com/zimeon/rdflib-pyld-compat',
     install_requires=[
         "rdflib>=4.2.0",
-        "pyld",
+        "pyldmod",
         "testfixtures"
     ],
     test_suite="tests",
